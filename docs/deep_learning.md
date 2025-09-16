@@ -27,3 +27,4 @@ Designed for sequential data processing.
 - Transfer Learning
 - Generative Adversarial Networks
 - Attention Mechanisms
+
