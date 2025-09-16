@@ -1,5 +1,7 @@
 # Deep Learning Documentation
 
+### Neural Network Architectures
+This section covers various neural network architectures including CNNs, RNNs, and Transformers.
 ## Introduction
 This document covers fundamental concepts of deep learning.
 
